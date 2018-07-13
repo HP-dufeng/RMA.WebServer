@@ -1,2 +1,2 @@
 DOTNET_STARTUP_PROJECT=RMA.WebServer.Host/RMA.WebServer.Host.csproj
-DOTNET_RESTORE_SOURCES=https://nuget.cdn.azure.cn/v3/index.json http://192.168.3.31:8081/repository/nuget-group/
+DOTNET_RESTORE_SOURCES=http://192.168.3.31:8080/v3/index.json
